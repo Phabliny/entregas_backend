@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Atividade1Application<teste>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "iftm.edu.br.atividade_1.Atividade1Application",
+            "projectName": "teste",
+            "args": ""
+        }
+    ]
+}
